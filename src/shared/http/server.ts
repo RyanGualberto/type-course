@@ -1,4 +1,4 @@
-class AppSercer {
+class AppServer {
     private app: string
 
     constructor(info: string) {
